@@ -1,0 +1,6 @@
+{
+  "_id": "relationshipId1",
+  "friends": ["userId1", "userId2"],
+  "status": 1, 
+  "updatedAt": "2024-09-21T12:00:00Z"
+}

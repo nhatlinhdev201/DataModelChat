@@ -1,0 +1,7 @@
+{
+  "_id": "analysisId1",
+  "conversationId": "conversationId1",
+  "keywords": ["hợp tác", "kế hoạch"],
+  "sentiment": "positive",
+  "createdAt": "2024-09-21T12:05:00Z"
+}

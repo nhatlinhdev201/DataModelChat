@@ -1,0 +1,49 @@
+{
+    "_id": "conversationId1",
+    "participantIds": ["userId1", "userId2"],
+    "userSeen": ["userId1"],
+    "isGroup": false,
+    "groupName": null,
+    "groupImage": null,
+    "buckets": [
+      {
+        "bucketId": "bucket1",
+        "messages": [
+          {
+            "messageId": "msg1",
+            "userId": "userId1",
+            "content": "Hello!",
+            "typeMessage": "TEXT",
+            "isRevoke": false,
+            "createdAt": "2024-09-21T12:05:00Z"
+          },
+          {
+            "messageId": "msg2",
+            "userId": "userId2",
+            "content": "Hi there!",
+            "typeMessage": "TEXT",
+            "isRevoke": false,
+            "createdAt": "2024-09-21T12:10:00Z"
+          }
+        ],
+        "createdAt": "2024-09-21T12:00:00Z"
+      },
+      {
+        "bucketId": "bucket2",
+        "messages": [
+          {
+            "messageId": "msg3",
+            "userId": "userId1",
+            "content": "How are you?",
+            "typeMessage": "TEXT",
+            "isRevoke": false,
+            "createdAt": "2024-09-21T13:00:00Z"
+          }
+        ],
+        "createdAt": "2024-09-21T13:00:00Z"
+      }
+    ],
+    "createdAt": "2024-09-21T12:00:00Z",
+    "updatedAt": "2024-09-21T12:10:00Z"
+  }
+  

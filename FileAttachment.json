@@ -1,0 +1,10 @@
+{
+    "_id": "fileId1",
+    "messageId": "msg1",
+    "conversationId": "conversationId1",
+    "userId": "userId1",
+    "fileUrl": "https://example.com/file1.png",
+    "fileType": "image/png",
+    "createdAt": "2024-09-21T12:05:00Z"
+  }
+  

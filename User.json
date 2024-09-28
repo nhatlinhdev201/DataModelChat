@@ -1,0 +1,14 @@
+{
+    "_id": "userId1",
+    "uid": "uniqueUserId",
+    "displayName": "John Doe",
+    "email": "john.doe@example.com",
+    "photoUrl": "profile.jpg",
+    "conversationIds": ["conversationId1", "conversationId2"],
+    "friendIds": ["userId2", "userId3"],
+    "allowFromStranger": true,
+    "createdAt": "2024-09-21T12:00:00Z",
+    "updatedAt": "2024-09-21T12:10:00Z"
+  }
+
+  
